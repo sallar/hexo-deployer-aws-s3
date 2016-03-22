@@ -1,5 +1,5 @@
 {
-  "name": "hexo-deployer-aws-s3",
+  "name": "hexo-deployer-s3-simple",
   "version": "0.1.0",
   "description": "An AWS S3 for Hexo which doesn’t drive people crazy.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sallar/hexo-deployer-aws-s3.git"
+    "url": "git+https://github.com/sallar/hexo-deployer-s3-simple.git"
   },
   "keywords": [
     "hexo",
@@ -20,9 +20,9 @@
   "author": "Sallar Kaboli <sallar.kaboli@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sallar/hexo-deployer-aws-s3/issues"
+    "url": "https://github.com/sallar/hexo-deployer-s3-simple/issues"
   },
-  "homepage": "https://github.com/sallar/hexo-deployer-aws-s3#readme",
+  "homepage": "https://github.com/sallar/hexo-deployer-s3-simple#readme",
   "dependencies": {
     "s3": "^4.4.0"
   }
