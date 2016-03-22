@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-s3-simple",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An AWS S3 for Hexo which doesn’t drive people crazy.",
   "main": "index.js",
   "scripts": {

@@ -1,1 +1,1 @@
-hexo.extend.deployer.register("aws-s3", require("./src/deployer.js"));
+hexo.extend.deployer.register("s3-simple", require("./src/deployer.js"));
